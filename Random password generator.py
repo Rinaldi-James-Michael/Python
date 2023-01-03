@@ -1,4 +1,8 @@
-#Testing version control
+#*************************************#
+#Author: Rinaldi Michael
+#Date and Time: 3rd Jan 2023, 1 pm IST
+#*************************************#
+
 import random
 
 passwords=""
